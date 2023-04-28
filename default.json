@@ -1,6 +1,6 @@
 {
     "app_name": "禾の专用",
-    "api_key": "",
+    "api_key": "fk190457-1hJw0HITlWDbAQnDi359haIGnTUglVkz",
     "api_url": "https://openai.api2d.net",
     "chat_model": "gpt-3.5-turbo",
     "chat_max_tokens": "2000",
