@@ -1,9 +1,9 @@
 {
     "app_name": "禾の专用",
     "api_key": "",
-    "api_url": "",
+    "api_url": "https://openai.api2d.net",
     "chat_model": "",
-    "chat_max_tokens": "",
+    "chat_max_tokens": "2000",
     "chat_temperature": "",
     "chat_timeout": "",
     "chat_system_prompt": "",
