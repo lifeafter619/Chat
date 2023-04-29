@@ -9,5 +9,5 @@
     "chat_system_prompt": "",
     "chat_user_prompt": "",
     "chat_character_url": "https://image.66619.eu.org/file/7beaa71cade22d6dda41d.jpg",
-    "chat_character_opacity": "100"
+    "chat_character_opacity": 80
 }
